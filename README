@@ -11,7 +11,7 @@ Implemented
 * Static scene generation / level editor.
 * Random monster placement and AI.
 * Game overs
-
+* Combat flicker added to monsters in combat
 
 
 
