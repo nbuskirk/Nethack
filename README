@@ -1,0 +1,19 @@
+NetHack v.01a README
+=============================================
+
+HTML5 Nethack clone created using crafty js. 
+
+
+Implemented
+=============================================
+
+* WASD movement
+* Static scene generation / level editor.
+* Random monster placement and AI.
+* Game overs
+
+
+
+
+
+(c) nathan buskirk 2012
